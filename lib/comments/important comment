@@ -1,0 +1,14 @@
+                         comment about code
+
+                 #on boarding screen
+1 - Expanded التوزيع بل التساوي في الشاشه
+2 - pageview.builder للتقليب من كذا اسكرين في نفس الشاشه
+3 - borderController.nextPage بياخد حاجتين مدة - Duration - curve تنقل بين الاسكرينات في نفس الاسكرين
+4 - Indicator (SmoothPageIndicator)  شكل للتنقل
+
+                #
+
+1 - dio helper هي اللي بستلم وببعت منها عن طريق Api
+2 -conditional builder علشان شكل كويس للدايره اللي بتلف وبتاخد condition - builder -fallback
+3 - enum لو عندي طذا اختيار بختار ما بنهم
+4 -Shrankwrap with singleChildScroolVeiw
